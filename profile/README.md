@@ -8,8 +8,8 @@ ChildBright is an integrated digital platform dedicated to improving maternal an
 
 | Repo Name                | Purpose                                                                                 |
 | ------------------------ | --------------------------------------------------------------------------------------- |
-| **childbright-webapp**   | The main web application—React + TypeScript frontend and accompanying services. |
-| **childbright-ml-pipeline** | The end-to-end AI pipeline: data ingestion, LoRA fine-tuning of Qwen3 0.6B, inference, and Hugging Face model hub integration. |
+| **[childbright-webapp](https://github.com/ChildBright/childbright-webapp)**   | The main web application—React + TypeScript frontend and accompanying services. |
+| **[childbright-ai-pipeline](https://github.com/ChildBright/childbright-ai-pipeline)** | The end-to-end AI pipeline: data ingestion, LoRA fine-tuning of Qwen3 0.6B, inference, and Hugging Face model hub integration. |
 
 ---
 
