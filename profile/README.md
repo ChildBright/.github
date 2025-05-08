@@ -22,7 +22,7 @@ ChildBright is an integrated digital platform dedicated to improving maternal an
      ```  
    - Clone the ML pipeline:  
      ```bash
-     git clone https://github.com/ChildBright/childbright-ml-pipeline.git
+     git clone https://github.com/ChildBright/childbright-ai-pipeline.git
      ```
 2. **Review each repo’s README** for setup instructions, environment variables, and deployment guides.
 
